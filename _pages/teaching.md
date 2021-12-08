@@ -4,9 +4,9 @@ title: "Teaching"
 ---
 During my academic career I have always appreciated the opportunity to convey scientific knowledge and methods. My teaching philosophy, evidencing my commitment to excellent teaching, has resulted from my experience with students at different levels, ranging from first years to advanced students. I have served as a university lecturer, course convenor, tutor, and mentor. I aim to show students why asking questions is crucial to scientific inquiry, and do not see a clear divide between teaching and research. By using examples from my own research I can illustrate the importance of the studied material. 
 
-You can view my teaching statement [here](assets/files/Achbari_Teaching_statement.pdf).
+You can view my teaching statement [here](/assets/files/Achbari_Teaching_statement.pdf).
 
-#Teaching & Mentoring Experience
+## Teaching & Mentoring Experience
 
 - JUL 2022	University of Groningen, BIGSSS Summer Schools in Computational Social Science: <b><i>Project Expert on Social Cohesion</i></b> (Trust Radius - Machine Learning) [Planned] 
 - MAR 2021	University of Essex, Business and Local Government Data Research Centre: <b><i>Introduction to Statistics in R</i></b>
