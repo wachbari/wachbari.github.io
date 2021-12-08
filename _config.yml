@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dr. Wahideh Achbari
+title_separator: "-" 
 email: w.achbari [at] gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Hello World! Welcome to my website.
+twitter_username: @w_achbari
+github_username: wachbari
 minimal_mistakes_skin: default
 search: false
 
@@ -61,20 +60,20 @@ plugins:
 author:
   name   : " "
   avatar : "/assets/images/Wahideh2.jpg"
-  bio    : "Research Fellow"
+  bio    : " "
   links:
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
-      url: "https://instagram.com/"
+      url: "https://scholar.google.com/citations?user=IAVRUGMAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/w_achbari"
     - label: "ORCiD"
       icon: "fab fa-orcid"
-      url: "https://github.com/"
+      url: "https://orcid.org/0000-0001-6814-1035"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/wachbari"
     
 
 footer:
