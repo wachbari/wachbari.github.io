@@ -3,7 +3,7 @@ title: "Back to the future: revisiting the contact hypothesis at Turkish and mix
 organizations in Amsterdam"
 collection: publications
 permalink: /publications/ERS
-date: 2015
+date: 2015-01-01
 venue: 'Ethnic and Racial Studies'
 paperurl: 'https://doi.org/10.1080/01419870.2013.826811'
 link: ' '
