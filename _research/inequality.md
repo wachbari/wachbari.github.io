@@ -3,10 +3,10 @@ title: "Inequality"
 layout: single
 author_profile: true
 collection: research
-excerpt: <img src="/assets/images/Lorenz.PNG" alt=''>
+excerpt: <img src="/assets/images/Lorenz.png" alt=''>
 order_number: 10
 header: 
-  og_image: /assets/images/Lorenz.PNG
+  og_image: /assets/images/Lorenz.png
 ---
 
 Text
