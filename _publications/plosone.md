@@ -2,7 +2,7 @@
 title: "Comparing the effect of cross-group friendship on generalized trust
 to its effect on prejudice: the mediating role of threat perceptions and negative affect"
 collection: publications
-permalink: /publication/plosone
+permalink: /publications/plosone
 date: 2021
 venue: 'PLoS ONE'
 paperurl: 'https://doi.org/10.1371/journal.pone.0245983'

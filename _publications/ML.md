@@ -2,7 +2,7 @@
 title: "Cultural migration: networks of Iranian organizations in the
 Netherlands"
 collection: publications
-permalink: /publication/ML
+permalink: /publications/ML
 date: 2007
 venue: 'Migration Letters'
 paperurl: 'https://doi.org/10.33182/ml.v4i2.219'

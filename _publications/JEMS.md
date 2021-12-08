@@ -2,7 +2,7 @@
 title: "Bridging and bonding ethnic ties in voluntary organizations: a multilevel "schools of
 democracy" model"
 collection: publications
-permalink: /publication/JEMS
+permalink: /publications/JEMS
 date: 2015
 venue: 'Journal of Ethnic and Migration Studies'
 paperurl: 'https://doi.org/10.1080/1369183X.2015.1053851'
