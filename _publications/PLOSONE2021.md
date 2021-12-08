@@ -1,5 +1,5 @@
 ---
-title: "Comparing the effect of cross-group friendship on generalized trust to its effect on prejudice"
+title: "Journal Articles"
 collection: publications
 permalink: /publication/2021-PLOSONE
 date: 2021-01-01
