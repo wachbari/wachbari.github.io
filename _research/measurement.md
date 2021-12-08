@@ -2,10 +2,10 @@
 title: "Measurement"
 layout: single
 author_profile: true
-excerpt: "<img src='assets/images/Measurement.jpg' alt=''>"
+excerpt: <img src="/assets/images/Measurement.jpg" alt=''>
 order_number: 20
 header: 
-  og_image: "assets/images/Measurement.jpg"
+  og_image: /assets/images/Measurement.jpg
 ---
 
 Text
