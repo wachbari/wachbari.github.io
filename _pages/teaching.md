@@ -6,16 +6,16 @@ During my academic career I have always appreciated the opportunity to convey sc
 
 You can view my teaching statement [here](assets/files/Achbari_Teaching_statement.pdf).
 
-##Teaching & Mentoring Experience
+#Teaching & Mentoring Experience
 
-- JUL 2022	UNIVERSITY OF GRONINGEN, BIGSSS SUMMER SCHOOLS IN COMPUTATIONAL SOCIAL SCIENCE: <b><i>Project Expert on Social Cohesion</b></i> (Trust Radius - Machine Learning) [Planned] 
-- MAR 2021	UNIVERSITY OF ESSEX, BUSINESS AND LOCAL GOVERNMENT DATA RESEARCH CENTRE:      <b><i>Introduction to Statistics in R</b></i>
-- JAN 2020	UNIVERSITY OF MANCHESTER, POLITICAL METHODOLOGY SPECIALIST GROUP OF THE POLITICAL STUDIES ASSOCIATION: <b><i>Mentoring Scheme</b></i> 
-- 2018 - 2020	UNIVERSITY OF AMSTERDAM, POLITICAL SCIENCE, SOCIAL PSYCHOLOGY: <b><i>Supervising</b></i> student research assistants and interns
-- 2016 - 2017	MINISTRY OF JUSTICE & SECURITY, RESEARCH AND DOCUMENTATION CENTRE: <b><i>Supervising</b></i> interns
-- 2012 - 2015	FREE UNIVERSITY BRUSSELS, APPLIED ECONOMICS: <b><i>Mentoring</b></i> Ph.D. candidates, <b><i>Evaluation</b></i> of Masters Theses 
-- 2007 - 2011	UNIVERSITY OF EDINBURGH, POLITICS & INTERNATIONAL RELATIONS: 
-  - <b><i>Course convener</b></i> honours course Europe and International Migration, 2 semesters.
-  - <b><i>Sessional lecturer</b></i> honours course Europe and International Migration, 3 semesters.
-  - <b><i>Tutor</b></i> postgraduate module Core Quantitative Data Analysis, Nominated for 'Best Teaching Award', 3 semesters.
-  - <b><i>Tutor</b></i> undergraduate modules: Democracy in Comparative Perspective; Social & Political Enquiry, 2 semesters.
+- JUL 2022	University of Groningen, BIGSSS Summer Schools in Computational Social Science: <b><i>Project Expert on Social Cohesion</i></b> (Trust Radius - Machine Learning) [Planned] 
+- MAR 2021	University of Essex, Business and Local Government Data Research Centre: <b><i>Introduction to Statistics in R</i></b>
+- JAN 2020	University of Manchester, Political Methodology Specialist Group of the Political Studies Association: <b><i>Mentoring Scheme</i></b> 
+- 2018 - 2020	University of Amsterdam, Political Science, Social Psychology: <b><i>Supervising</i></b> student research assistants and interns
+- 2016 - 2017	Ministry of Justice & Security, Research and Documentation Centre: <b><i>Supervising</i></b> interns
+- 2012 - 2015	Free University Brussels, Applied Economics: <b><i>Mentoring</i></b> Ph.D. Candidates, <b><i>Evaluation</i></b> of Masters Theses 
+- 2007 - 2011	University of Edinburgh, Politics & International Relations: 
+  - <b><i>Course convener</i></b> honours course Europe and International Migration, 2 semesters.
+  - <b><i>Sessional lecturer</i></b> honours course Europe and International Migration, 3 semesters.
+  - <b><i>Tutor</i></b> postgraduate module Core Quantitative Data Analysis, Nominated for &apos;Best Teaching Award&apos;, 3 semesters.
+  - <b><i>Tutor</i></b> undergraduate modules: Democracy in Comparative Perspective; Social & Political Enquiry, 2 semesters.
