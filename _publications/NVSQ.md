@@ -1,6 +1,5 @@
 ---
-title: "Ethnic diversity and generalized trust: testing the contact
-hypothesis in Dutch voluntary organizations"
+title: " "
 collection: publications
 permalink: /publications/NVSQ
 date: 2018-01-01

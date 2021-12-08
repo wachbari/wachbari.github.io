@@ -1,6 +1,5 @@
 ---
-title: "Cultural migration: networks of Iranian organizations in the
-Netherlands"
+title: " "
 collection: publications
 permalink: /publications/ML
 date: 2007-01-01

@@ -1,6 +1,5 @@
 ---
-title: "Back to the future: revisiting the contact hypothesis at Turkish and mixed non-profit
-organizations in Amsterdam"
+title: " "
 collection: publications
 permalink: /publications/ERS
 date: 2015-01-01
