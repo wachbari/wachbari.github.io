@@ -2,6 +2,7 @@
 title: " "
 collection: publications
 permalink: /publications/ML
+classes: wide
 date: 2007-01-01
 venue: 'Migration Letters'
 link: 'https://doi.org/10.33182/ml.v4i2.219'

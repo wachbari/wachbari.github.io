@@ -2,6 +2,7 @@
 title: " "
 collection: publications
 permalink: /publications/ERS
+classes: wide
 date: 2015-01-01
 venue: 'Ethnic and Racial Studies'
 link: 'https://doi.org/10.1080/01419870.2013.826811'

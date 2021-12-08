@@ -2,6 +2,7 @@
 title: "Journal Articles"
 collection: publications
 permalink: /publications/2021-PLOSONE
+classes: wide
 date: 2021-01-01
 venue: 'PLoS ONE'
 link: 'https://doi.org/10.1371/journal.pone.0245983'

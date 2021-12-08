@@ -2,6 +2,7 @@
 title: " "
 collection: publications
 permalink: /publications/JEMS
+classes: wide
 date: 2015-01-02
 venue: 'Journal of Ethnic and Migration Studies'
 link: 'https://doi.org/10.1080/1369183X.2015.1053851'

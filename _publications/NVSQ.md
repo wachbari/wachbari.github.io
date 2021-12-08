@@ -2,6 +2,7 @@
 title: " "
 collection: publications
 permalink: /publications/NVSQ
+classes: wide
 date: 2018-01-01
 venue: 'Nonprofit and Voluntary Sector Quarterly'
 link: 'https://doi.org/10.1177/0899764018764328'
