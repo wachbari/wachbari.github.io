@@ -18,8 +18,8 @@ title_separator: "-"
 email: w.achbari [at] gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello World! Welcome to my website.
-twitter_username:
-github_username: wachbari
+twitter_username: username
+github_username: username
 minimal_mistakes_skin: default
 search: false
 
