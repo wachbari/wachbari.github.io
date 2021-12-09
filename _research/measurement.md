@@ -5,7 +5,7 @@ author_profile: true
 collection: research
 classes: wide
 excerpt: <img src="/assets/images/Measurement.jpg" alt=''>
-order_number: 30
+order_number: 40
 header: 
   og_image: /assets/images/Measurement.jpg
 ---
