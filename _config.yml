@@ -22,6 +22,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: false
+repository: "wachbari/wachbari.github.io"
 
 # Build settings
 markdown: kramdown
