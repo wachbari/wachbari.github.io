@@ -1,6 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
+classes: wide
 ---
 During my academic career I have always appreciated the opportunity to convey scientific knowledge and methods. My teaching philosophy, evidencing my commitment to excellent teaching, has resulted from my experience with students at different levels, ranging from first years to advanced students. I have served as a university lecturer, course convenor, tutor, and mentor. I aim to show students why asking questions is crucial to scientific inquiry, and do not see a clear divide between teaching and research. By using examples from my own research I can illustrate the importance of the studied material. 
 
