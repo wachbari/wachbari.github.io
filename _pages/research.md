@@ -7,10 +7,8 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-Text
+## My research projects fall into four themes:
 
-
-<nbsp>
 
 {% include base_path %}
   

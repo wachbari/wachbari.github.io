@@ -4,23 +4,15 @@ layout: single
 author_profile: true
 collection: research
 excerpt: <img src="/assets/images/2015_Criminaliteit_custom.png" alt=''>
-order_number: 10
+order_number: 40
 header: 
   og_image: /assets/images/2015_Criminaliteit_custom.png
 ---
 
-Text
+In 2016 and 2017 I led a project at the Dutch Ministry of Justice and Security on the arrival of asylum reception centers and whether this affected crime in Dutch neighbourhoods drawing on state-of-the-art sociological theories and analytical tools (e.g., panel and spatial analysis). We employed register micro data from Statistics Netherlands and complemented this with data from other agencies, and Eurostat. The dataset comprised the entire Dutch population in 2005, and the period between 2010 and 2016. Our longitudinal approach not only required tackling unobserved heterogeneity, but also to compile several neighbourhood characteristics such as the Herfindahl-Hirschman Index and Gini coefficient in each panel, as well as distance matrices for approximately 12,000 Dutch neighbourhoods. The research report delivered to the Dutch parliament impacted political and societal debates and received broad media coverage in national newspapers, radio and TV. 
+[Research report](https://repository.wodc.nl/bitstream/handle/20.500.12832/194/Cahier_2017-16_2750_Volledige_tekst_v2_tcm28-299890.pdf){: .btn--research}
 
-## Article
+In addition this research will result in two academic papers currently in preparation for submission to the <i>Journal of Quantitative Criminology</i> in collaboration with Prof. Wim Bernasco (Free University Amsterdam), and to <i>Social
+Science Research</i> with Prof. Arjen Leerkes (Maastricht University and Erasmus University Rotterdam).
 
-Citation
-
-> Abstract
-
-[Article](https://doi.org/xxxxx){: .btn--research} [Pdf](/files/pdf/research/xxx.pdf){: .btn--research}
-
-## Manuscript in preparation
-
-Citation
-
-> Abstract
+Earlier drafts have been presented at the <i>European Survey Research Association</i> in 2019, <i>Metropolis International Conference</i> in 2017, and at the <i>Dutch Society for Criminology</i> in 2016.
