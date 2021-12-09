@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+classes: wide
 header:
   og_image: "research/ecdf.png"
 ---

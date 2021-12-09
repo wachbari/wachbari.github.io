@@ -3,14 +3,15 @@ title: "Inequality"
 layout: single
 author_profile: true
 collection: research
+classes: wide
 excerpt: <img src="/assets/images/Lorenz.jpg" alt=''>
 order_number: 20
 header: 
   og_image: /assets/images/Lorenz.jpg
 ---
 
-Within this theme together with Prof. Brian Burgoon (University of Amsterdam), Dr. Jona Linde (Maastricht University) and Prof. Bertjan Doosje (University of Amsterdam) we examine the relations between wealth and income inequality and social and political trust across the globe. We test the relative impact of wealth and income inequality on social cohesion by employing multiple modelling strategies, specifications, and robustness checks.
-Presented at the <i>European Political Science Association</i> in 2019.
+Within this theme together with Prof. Brian Burgoon (University of Amsterdam), Dr. Jona Linde (Maastricht University), and Prof. Bertjan Doosje (University of Amsterdam) we examine the relations between wealth and income inequality and social and political trust across the globe. We employ multiple modelling strategies, specifications, and robustness checks.
+An earlier draft is presented at the <i>European Political Science Association</i> in 2019.
 
 ## Manuscript in preparation
 
