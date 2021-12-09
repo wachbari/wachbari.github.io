@@ -23,6 +23,7 @@ github_username: username
 minimal_mistakes_skin: default
 search: false
 repository: "wachbari/wachbari.github.io"
+google-site-verification: "T3qAKRw5epnIX_l-xQdgz0LGOzbePzJRACmBiAzWtwg"
 
 # Build settings
 markdown: kramdown
