@@ -5,7 +5,7 @@ author_profile: true
 collection: research
 classes: wide
 excerpt: <img src="/assets/images/2015_Criminaliteit_custom.png" alt=''>
-order_number: 40
+order_number: 20
 header: 
   og_image: /assets/images/2015_Criminaliteit_custom.png
 ---
