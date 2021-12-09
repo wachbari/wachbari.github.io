@@ -10,7 +10,7 @@ header:
   og_image: /assets/images/Lorenz.jpg
 ---
 
-Within this theme together with Prof. Brian Burgoon (University of Amsterdam), Dr. Jona Linde (Maastricht University), and Prof. Bertjan Doosje (University of Amsterdam) we examine the relations between wealth and income inequality and social and political trust across the globe. We employ multiple modelling strategies, specifications, and robustness checks.
+Within this theme together with Prof. Brian Burgoon (University of Amsterdam), Dr. Jona Linde (Maastricht University), and Prof. Bertjan Doosje (University of Amsterdam) we examine the relations between wealth and income inequality and social and political trust across the globe in the paper below. We employ multiple modelling strategies, specifications, and robustness checks.
 An earlier draft is presented at the <i>European Political Science Association</i> in 2019.
 
 ## Manuscript in preparation
