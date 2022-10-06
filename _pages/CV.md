@@ -8,6 +8,6 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/assets/files/CV-WAchbari-Nov_2021.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/assets/files/CV-WAchbari-Sep_2022.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/assets/files/CV-WAchbari-Nov_2021.pdf).
+You can download a PDF copy of my CV [here](/assets/files/CV-WAchbari-Sep_2022.pdf).
