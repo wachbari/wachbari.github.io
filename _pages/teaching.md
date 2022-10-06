@@ -9,7 +9,8 @@ You can view my teaching statement [here](/assets/files/Teaching_statement_Achba
 
 ## Teaching & Mentoring Experience
 
-- JUL 2022	University of Groningen, BIGSSS Summer Schools in Computational Social Science: <b><i>Project Expert on Social Cohesion</i></b> (Trust Radius - Machine Learning) [Planned] 
+- 2022 – TO DATE University of Amsterdam, BSc Computational Social Science, <b><i>Core Lecturer, Coordinator Research Expertise Track</i></b>
+- JUL 2022	University of Groningen, BIGSSS Summer Schools in Computational Social Science: <b><i>Project Expert on Social Cohesion</i></b> (Trust Radius - Machine   Learning) 
 - MAR 2021	University of Essex, Business and Local Government Data Research Centre: <b><i>Introduction to Statistics in R</i></b>
 - JAN 2020	University of Manchester, Political Methodology Specialist Group of the Political Studies Association: <b><i>Mentoring Scheme</i></b> 
 - 2018 - 2020	University of Amsterdam, Political Science, Social Psychology: <b><i>Supervising</i></b> student research assistants and interns
