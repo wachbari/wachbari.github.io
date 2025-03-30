@@ -7,7 +7,7 @@ classes: wide
 
 # Bio
 
-I am a migration scholar (Ph.D., University of Edinburgh) focusing on social cohesion. Substantively, my expertise spans the contact hypothesis, ethnic diversity, economic inequality, and crime, whilst methodologically I employ advanced statistical methods and computational tools.
+I am an interdisciplinary social scientist (Ph.D., University of Edinburgh) focusing on social cohesion. Substantively, my expertise spans the social cohesion, ethnic diversity, economic inequality, and crime, whilst methodologically I employ advanced statistical methods and computational tools.
 
 Previously I have held different research positions across Europe and obtained a Marie Skłodowska-Curie Actions Individual Fellowship at the University of Amsterdam (co-funded by the European Commission) titled Trust Radius.
 
